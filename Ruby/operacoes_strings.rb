@@ -46,7 +46,7 @@ puts mensagem
 
 
 #upcase / downcase   maiusculo e minusculo
-nomee = "THOMAS"
+nome = "THOMAS"
 nome_minusculo= "thomas"
 puts nome_minusculo.upcase 
 
@@ -80,6 +80,11 @@ puts nomes.length #como nao tem espaco ele entende que so é um elemento
 nomes = "thomas-jefferson-espíndola-santos".split("-")
 p nomes
 puts nomes.length
+
+
+
+
+
 
 
 
