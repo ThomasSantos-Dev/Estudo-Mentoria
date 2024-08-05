@@ -38,6 +38,8 @@ unless valor ==100
   puts "o valor não é 100"
 end
 
+
+#exercicio 5
 puts "Digite um número: "
 valor = gets.chomp.to_i
 puts "Esse numero é mairo que 50" if valor >50

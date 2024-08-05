@@ -36,6 +36,11 @@
 # Símbolos são como etiquetas únicas que você usa para dar nomes às coisas em Ruby.
 # Eles economizam memória porque são sempre os mesmos, não importa quantas vezes você os use.
 # Símbolos são rápidos de comparar e não mudam depois de criados.
+# 
+#
+puts "QUl seu nome"
+nome = gets.chomp
+puts "obrigado #{nome}"
 
 
 
